@@ -55,3 +55,11 @@ Inline markdown can be used inside of any block, but must not be nested. For exa
 - `` `code` ``
 - `![images](https://img.img/img.jpg)`
 - `[links](https://boot.dev)`
+
+## Potential Improvements
+
+1. Additional code comments and documentation
+2. Use Python style for documenting method and variable types to improve
+   intellisense
+3. Expand to allow nested markdown
+4. Extend unit tests to include additional test cases, including more complex combinations
